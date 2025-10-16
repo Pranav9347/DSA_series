@@ -45,3 +45,6 @@
 
 # Ignore pics
 pics/
+
+# Ignore text file
+*.txt
