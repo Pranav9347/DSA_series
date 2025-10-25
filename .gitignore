@@ -43,8 +43,9 @@
 # VSCode project settings
 .vscode/
 
-# Ignore pics
+# Ignore pics and content
 pics/
+content/
 
 # Ignore text file
 *.txt
